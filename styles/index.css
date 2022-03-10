@@ -1,0 +1,100 @@
+@font-face {
+    font-family: Circular;
+    src: url(../fonts/CircularStd-Black.ttf);
+  }
+
+.logo {
+    font-family: 'Circular';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 160%;
+    /* or 48px */
+    
+    letter-spacing: -0.02em;
+
+    color: #0A1B32;
+    margin-left: 80px;
+    margin-top: 37px;
+}
+
+.logo-dot {
+    font-family: 'Circular';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 160%;
+    letter-spacing: -0.02em;
+
+    color: #33A2E0;
+}
+
+.menu-item {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    margin-right: 40px;
+    text-align: center;
+    letter-spacing: 0.02em;
+
+    color: #1B0A42;
+
+}
+
+.main-title {
+    font-family: 'Ramaraja', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 76px;
+    /* or 106% */
+    max-width: 583px;
+    width: 100%;
+    letter-spacing: 0.02em;
+    margin-left: 167px;
+    color: #1B0A42;
+    margin-top: 278px;
+}
+
+section {
+    display: inline-block;
+}
+
+.main-info {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    /* or 160% */
+    margin-left: 167px;
+    letter-spacing: 0.02em;
+    max-width: 495px;
+    width: 100%;
+    color: #9A9A9A;
+}
+
+.main-btn {
+    background: #33A2E0;
+    border-radius: 6px;
+    margin-left: 167px;
+    margin-top: 50px;
+    width: 152px;
+    height: 64px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF; 
+    border: 0;
+}
+
+img {
+    max-width: 796px;
+    width: 100%;
+    margin-left: 10px;
+}
